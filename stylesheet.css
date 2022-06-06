@@ -196,7 +196,7 @@ body {
   height: calc(100vh - 115px);
   margin-top: 75px;
   border-radius: 15px;
-  background-image: url(Pictures/main-info-photo.jpg);
+  background-image: url(Pictures/main__info-photo.jpg);
   background-size: cover;
   background-position: top;
   background-attachment: scroll;
